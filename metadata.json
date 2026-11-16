@@ -1,0 +1,6 @@
+{
+  "name": "Cadence",
+  "description": "Real-time conversational AI language learning studio powered by Gemini Live voice sessions, instant phrase breakdowns, and adaptive coaching.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
